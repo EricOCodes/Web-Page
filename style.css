@@ -1,0 +1,68 @@
+/* Class CSS*/
+.center {
+  text-align: center;
+}
+
+.wrapper {
+  margin: auto;
+  width: 400px;
+  height: auto;
+}
+
+/* Container Backgrounds and Sizing */
+header {
+  background-color: #586F7C;
+  margin-top: 0px;
+}
+
+header nav {
+  padding-bottom: 25px;
+}
+  
+main {
+  background-color: #B8DBD9;
+  padding-bottom: 20px;
+}
+
+footer{
+  background-color: #000000;
+  height: 100px;
+  padding-top: 20px;
+}
+
+/* Link Styling */
+a {
+  font-size: 20px;
+  margin-right: 10px;
+}
+a:link { color: #0E6BA8; }
+a:visited { color: purple; }
+a:hover { color: white; }
+a:active { color: black; }
+
+/* Font */
+header h1 {
+  text-align: center;
+  padding-top: 20px;
+  color: white;
+  font-size: 65px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  text-align: center;
+}
+
+h1, h2, p, a, ul {
+  font-family: 'Courier New', Courier, Serif;
+}
+
+footer p {
+  color: white;
+  text-align: left;
+}
+
+main a {
+  font-size: 15px;
+}
+
