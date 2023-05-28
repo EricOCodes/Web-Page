@@ -1,8 +1,9 @@
-/* Class CSS*/
+/* Class to Center Text*/
 .center {
   text-align: center;
 }
 
+/* Class to Set Margin, Width, and Height */
 .wrapper {
   margin: auto;
   width: 400px;
@@ -49,11 +50,13 @@ header h1 {
   margin-bottom: 15px;
 }
 
+/* Center the Article Titles */
 h2 {
   text-align: center;
 }
 
-h1, h2, p, a, ul {
+/* All Text Set to Same Font */
+h1, h2, h3, p, a, ul {
   font-family: 'Courier New', Courier, Serif;
 }
 
@@ -62,6 +65,7 @@ footer p {
   text-align: left;
 }
 
+/* Adjust the Link Text Size to Match <p> */
 main a {
   font-size: 15px;
 }
